@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Log files
+*.log
+
+# VS Code settings
+.vscode/
+
+# Ignore embedded project clone/submodule
+hostel_python/
+
+# OS files
+.DS_Store
+Thumbs.db
